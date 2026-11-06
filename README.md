@@ -1,2 +1,2 @@
-# OBY-HRIS-PROJECT
-OBY HRIS is an HR management app with two main user types: HR (Admin) and Employee. This plan covers verification of onboarding (signup), authentication (login), account recovery, profile management, and role-based access, which together form the foundation every other HR feature depends on.
+# OBY-HRIS-PLATFORM-PROJECT
+A practical Software QA project focused on the Software Testing Life Cycle (STLC), including test planning, scope definition, test design, test case development, test execution, defect tracking using Jira, test management using TestRail, and test reporting.
