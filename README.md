@@ -3,7 +3,7 @@ A practical Software QA project focused on the Software Testing Life Cycle (STLC
 
 ## 📂 Test Planning Artifacts
 
-* 📄 [OBY HRIS Test Plan & Test Cases](01-Test-Planning/OBY%20HRIS%20Test%20Plan%20and%20Cases.pdf)
+* 📄 [OBY HRIS Test Plan & Test Cases](https://github.com/estherodiaka/OBY-HRIS-PROJECT/blob/main/01-Test-Planning/OBY_HRIS_Test_Plan_and_Cases.pdf)
 
 ## 📂 Jira Testing Artifacts & Evidence
 
